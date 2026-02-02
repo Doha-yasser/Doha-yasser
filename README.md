@@ -1,6 +1,6 @@
 # Hey there, I'm [Doha Yasser](https://Doha-yasser.vercel.app/) 👋
 
-**Full-stack Web Developer · IS Student · Coffee Lover ☕**
+**Backend Web Developer · IS Student · Coffee Lover ☕**
 
 💼 **Current:** Student at FCAI
 
