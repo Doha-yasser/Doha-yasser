@@ -4,17 +4,11 @@
 
 💼 **Current:** Student at FCAI
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a backend developer<br/>.
-
-
+I am a backend developer.<br/>
 
 
 <br clear="right"/>
@@ -29,12 +23,6 @@ I am a backend developer<br/>.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
-
-## 🎯 LeetCode Heatmap
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 
