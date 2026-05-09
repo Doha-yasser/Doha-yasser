@@ -8,7 +8,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a backend developer.<br/>
+I am a ML Engineer.<br/>
 
 
 <br clear="right"/>
