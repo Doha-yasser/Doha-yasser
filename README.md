@@ -1,35 +1,51 @@
 # Hey there, I'm [Doha Yasser](https://Doha-yasser.vercel.app/) 👋
 
-**Backend Web Developer · IS Student · Coffee Lover ☕**
+**ML Engineer · AI Enthusiast · Coffee Lover ☕**
 
-💼 **Current:** Student at FCAI
+💼 **Current:** Student at FCAI - Faculty of Computers and Artificial Intelligence
 
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a ML Engineer.<br/>
+Now I'm diving deeper into the world of **Machine Learning & AI**, building intelligent systems and exploring the intersection of data and code.
 
+- 🔭 Currently building: end-to-end NLP project
+- 🌱 Learning: **Data Analysis**, **LLMs**, **Vector Databases**
+- ⚡ Fun fact: I can debug backend code while sipping coffee ☕
 
-<br clear="right"/>
+## 🧠 My Tech Stack
 
-## 🔧 My Tech Stack
+### AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+### Tools & Databases
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00B4D8?logo=chromadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
-
 
 ## 🔗 Connect with Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doha-yasser/?locale=en_US)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Doha-yasser.vercel.app/)
 
 </div>
+
+---
+
+> *"From backend APIs to intelligent AI – the journey continues..."* 🚀
