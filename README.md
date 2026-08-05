@@ -25,7 +25,7 @@ Now I'm diving deeper into the world of **Machine Learning & AI**, building inte
 ### Tools & Databases
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-00B4D8?logo=chromadb&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?logo=sql&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -44,5 +44,3 @@ Now I'm diving deeper into the world of **Machine Learning & AI**, building inte
 </div>
 
 ---
-
-> *"From backend APIs to intelligent AI – the journey continues..."* 🚀
